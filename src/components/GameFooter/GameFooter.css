@@ -1,0 +1,14 @@
+.game-footer {
+  text-align: center;
+  margin-top: 40px;
+}
+.game-reset-btn {
+  padding: 10px 0px;
+  font-size: 24px;
+  border-radius: 50px;
+  width: 100%;
+  color: #ff755e;
+  background-color: white;
+  font-weight: 700;
+  cursor: pointer;
+}
